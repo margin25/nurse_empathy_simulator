@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -32,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
 
         rb.velocity = new Vector3(horizontalInput * movementSpeed, rb.velocity.y, verticalInput * movementSpeed);
 
-        if (Input.GetButtonDown("Jump") && IsGrounded())
+        if (Input.GetButtonDown("Jump"))
         {
             Jump();
         }
@@ -53,8 +49,5 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    bool IsGrounded()
-    {
-        return Physics.CheckSphere(groundCheck.position, 0.1f, ground);
-    }
+   
 }
