@@ -1,159 +1,9 @@
 fileFormatVersion: 2
-guid: f6a10227f4354244a9c978920b5bb5fb
+guid: 4587182defab26e42921ebb9484f3fa7
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Body_Diffuse
-    second: {fileID: 2800000, guid: 38859af79195d2e45af17ae57fe18d9e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Body_Gloss
-    second: {fileID: 2800000, guid: 749de26efbc40a5418efdfb92f217dcb, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Body_Normal
-    second: {fileID: 2800000, guid: d397264e708f0cf4784e41f0c5504b64, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Body_Opacity
-    second: {fileID: 2800000, guid: a593cdbc53f0908499e1bc3775ea2273, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Body_Specular
-    second: {fileID: 2800000, guid: 3553d681b126b3447827e4bab88f01af, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Bottom_Diffuse
-    second: {fileID: 2800000, guid: 47faacb3ce4c98345ae2286aa2e58e78, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Bottom_Gloss
-    second: {fileID: 2800000, guid: 1417288987519d447ab38242a1ef6ec4, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Bottom_Normal
-    second: {fileID: 2800000, guid: 83fa9984156ac00429e7c74460adb237, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Bottom_Opacity
-    second: {fileID: 2800000, guid: 3539972122fe5284680634bc02d60468, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Bottom_Specular
-    second: {fileID: 2800000, guid: 5ccf0a37a0dad694b8562458388bece4, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Hat_Diffuse
-    second: {fileID: 2800000, guid: 79578dbf3bf3e01478767147c62e523a, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Hat_Gloss
-    second: {fileID: 2800000, guid: 7f5fc31ebbb59be429ced4855e688576, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Hat_Normal
-    second: {fileID: 2800000, guid: 3231fd62031238b49b868005bd40b258, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Hat_Opacity
-    second: {fileID: 2800000, guid: e25e7f312809886409a36419529e17eb, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Hat_Specular
-    second: {fileID: 2800000, guid: affdf1cb923eba24b8607c3172775ab8, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Mask_Diffuse
-    second: {fileID: 2800000, guid: 90a60a3501757fe49bc4033df7b54089, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Mask_Gloss
-    second: {fileID: 2800000, guid: cc2367220a1cce4409133e0530272767, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Mask_Normal
-    second: {fileID: 2800000, guid: 51ff0eccabe753046ae4805fa381e6d1, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Mask_Opacity
-    second: {fileID: 2800000, guid: 5662c80ed9ebd9547af1fd42e337bab3, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Mask_Specular
-    second: {fileID: 2800000, guid: f8a59c2a880d6a846923f4f8ac70ccb0, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Shoes_Diffuse
-    second: {fileID: 2800000, guid: 3ff8e360d27601a4dbf28a9dbf906b1c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Shoes_Gloss
-    second: {fileID: 2800000, guid: 7ade6e729db2305419c1cfd4e5033bbd, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Shoes_Normal
-    second: {fileID: 2800000, guid: 1af0a77f6bfed00489b9a7f091d01dac, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Shoes_Opacity
-    second: {fileID: 2800000, guid: a577b9dfd894fb54fa90b20c5bfc45b7, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Shoes_Specular
-    second: {fileID: 2800000, guid: c772a46006afa084fb385707c4002d46, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Top_Diffuse
-    second: {fileID: 2800000, guid: 6b0dfe12a9e31d746a34920b8c43ae63, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Top_Gloss
-    second: {fileID: 2800000, guid: 3805d2f30df6b7147aff719ae29472e0, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Top_Normal
-    second: {fileID: 2800000, guid: 25a331918e585644b89cce28e66f1157, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Top_Opacity
-    second: {fileID: 2800000, guid: 6396e6a6118d40d45b4093b139ee2c49, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Nurse__Top_Specular
-    second: {fileID: 2800000, guid: c4c86e6625e6cac44bd95b99f081ec2a, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -181,7 +31,36 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Talking
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 308
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -225,12 +104,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips:
-  - 99bf2c7a152829f4a95160c8f2e764f4
-  - c19c73918e2918c44ab7854b4b9a09bc
-  - a8a05d32ebf8dee4cb15027f8e8970e8
-  - 4587182defab26e42921ebb9484f3fa7
-  - b04bdb48ac9163c40b966d74f2013e0c
+  referencedClips: []
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
@@ -1060,11 +934,11 @@ ModelImporter:
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f6a10227f4354244a9c978920b5bb5fb, type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 2
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
